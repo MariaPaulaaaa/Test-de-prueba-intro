@@ -1,0 +1,168 @@
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~ (main)
+$ cd Desktop/Documentos/Programación/Introducción\ a\ la\ informática/
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática (main)
+$ touch archivo con espacio.txt
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática (main)
+$ mkdir Actividades
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática (main)
+$ cd Actividades/
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ mkdir Deportes\ de\ equipo
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ touch Basquet Ajedrez.txt Ping\ pong
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ rm Basquet Ajedrez.txt Ping\ pong
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ cd Deportes\ de\ equipo/
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades/Deportes de equipo (main)
+$ touch Basquet Ajedrez.txt Ping\ pong
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades/Deportes de equipo (main)
+$ cd ..
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ cd Deportes\ de\ equipo/
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades/Deportes de equipo (main)
+$ rm Ajedrez.txt Ping\ pong
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades/Deportes de equipo (main)
+$ cd ..
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ mkdir Deportes\ acuáticos
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ cd Deportes\ acuáticos/
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades/Deportes acuáticos (main)
+$ cd ..
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ mkdir Deportes\ extremos
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ mkdir Deportes\ de\ mesa
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ cd Deportes\ de\ mesa/
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades/Deportes de mesa (main)
+$ touch Ajedrez.txt
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades/Deportes de mesa (main)
+$ cd ..
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ mkdir Deportes\ mentales
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ cd Deportes\ de\ mesa/
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades/Deportes de mesa (main)
+$ rm Ajedrez.txt
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades/Deportes de mesa (main)
+$ touch Ping\ pong
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades/Deportes de mesa (main)
+$ cd ..
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ cd Deportes\ mentales/
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades/Deportes mentales (main)
+$ touch Ajedrez.txt
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades/Deportes mentales (main)
+$ cd ..
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ ls -r
+'Deportes mentales'/  'Deportes de mesa'/    'Deportes acuáticos'/
+'Deportes extremos'/  'Deportes de equipo'/
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ ls -a
+ ./   'Deportes acuáticos'/  'Deportes de mesa'/   'Deportes mentales'/
+ ../  'Deportes de equipo'/  'Deportes extremos'/
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ ls
+'Deportes acuáticos'/  'Deportes de mesa'/   'Deportes mentales'/
+'Deportes de equipo'/  'Deportes extremos'/
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ ls -R
+.:
+'Deportes acuáticos'/  'Deportes de mesa'/   'Deportes mentales'/
+'Deportes de equipo'/  'Deportes extremos'/
+
+'./Deportes acuáticos':
+
+'./Deportes de equipo':
+Basquet
+
+'./Deportes de mesa':
+'Ping pong'
+
+'./Deportes extremos':
+
+'./Deportes mentales':
+Ajedrez.txt
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ rm Deportes\ extremos/
+rm: cannot remove 'Deportes extremos/': Is a directory
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ rm -r Deportes\ extremos/
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ pwd
+/c/Users/maria/Desktop/Documentos/Programación/Introducción a la informática/Actividades
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ git init
+Initialized empty Git repository in C:/Users/maria/Desktop/Documentos/Programación/Introducción a la informática/Actividades/.git/
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ ^V
+bash: $'\026': command not found
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ git remote add origin https://github.com/MariaPaulaaaa/Test-de-prueba-intro.git
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ git add .
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ git commit -m "Añadiendo archivos"
+[main (root-commit) 96b3f89] Añadiendo archivos
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Deportes de equipo/Basquet
+ create mode 100644 Deportes de mesa/Ping pong
+ create mode 100644 Deportes mentales/Ajedrez.txt
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ git push origin main
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (6/6), 439 bytes | 219.00 KiB/s, done.
+Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/MariaPaulaaaa/Test-de-prueba-intro.git
+ * [new branch]      main -> main
+
+maria@LAPTOP-3HA5VQ3Q MINGW64 ~/Desktop/Documentos/Programación/Introducción a la informática/Actividades (main)
+$ touch Instrucciones\ de\ GitBash.txt
